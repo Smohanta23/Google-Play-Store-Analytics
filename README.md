@@ -1,16 +1,16 @@
-** Google Play Store Analytics Dashboard **
+# Google Play Store Analytics Dashboard 
 
-Internship Project | NullClass Edtech Private Limited
+### Internship Project | NullClass Edtech Private Limited
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project aims to analyze, visualize, and interpret key insights from Google Play Store app data using interactive visualizations. The dashboard was built to provide real-time insights into app performance metrics such as sentiment distribution, revenue trends, installs, and category-based analytics.
 
 The project is designed to ensure that graphs are dynamically visible based on time restrictions, making it more realistic for business intelligence applications. A dark/light mode toggle enhances user experience, while interactive plots allow for detailed data exploration.
 
-🚀 Features & Functionalities
+## 🚀 Features & Functionalities
 
-✅ Key Functionalities
+### ✅ Key Functionalities
 
 Sentiment Analysis: Stacked bar chart showing user sentiment distribution by app rating group.
 
@@ -30,7 +30,7 @@ Bubble Chart: Relationship between app size, ratings, and installs (5 PM - 7 PM 
 
 Time-Series Line Chart: Install trends over time, highlighting growth spikes (6 PM - 9 PM IST).
 
-📊 Technology Stack
+### 📊 Technology Stack
 
 This project was built using the following technologies:
 
@@ -46,7 +46,7 @@ Flask/HTTP Server (Local Hosting)
 
 Netlify/Vercel (Deployment)
 
-📉 Installation & Setup
+### 📉 Installation & Setup
 
 🔹 1. Clone the Repository
 
@@ -64,9 +64,9 @@ python server.py
 
 or use:
 
-python -m http.server 8000
+```python -m http.server 8000 ```
 
-Access the dashboard at http://localhost:8000/Final-Dashboard.html
+Access the dashboard at [ http://localhost:8000/Final-Dashboard.html ]
 
 🔹 4. Deploy on Netlify/Vercel
 
@@ -74,7 +74,7 @@ Netlify: Upload the project folder, and get a public link to access the dashboar
 
 Vercel: Run vercel in the project directory and follow setup instructions.
 
-📅 Time-Based Graph Visibility
+### 📅 Time-Based Graph Visibility
 
 Graph Name           Visibility Time (IST)
 
@@ -94,7 +94,7 @@ Time-Series Chart        6 PM - 9 PM
 
 Each graph is dynamically enabled/disabled based on the current time.
 
-💪 Key Challenges & Solutions
+## 💪 Key Challenges & Solutions
 
 ⏳ Time-Restricted Graphs: Implemented Python time-check functions to control visibility dynamically.
 
@@ -104,7 +104,7 @@ Each graph is dynamically enabled/disabled based on the current time.
 
 🎡 Dark/Light Mode Toggle: Created a smooth UI transition with local storage to save preferences.
 
-📢 Outcomes & Impact
+## 📢 Outcomes & Impact
 
 Successfully created 10+ dynamic interactive visualizations for Google Play Store insights.
 
@@ -114,7 +114,7 @@ Implemented real-time accessibility based on time-based conditions.
 
 Improved data storytelling through intuitive, visually engaging graphs.
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 
 Database Integration: To enable real-time updates from live app data sources.
 
@@ -122,10 +122,10 @@ User Login & Filters: Personalized experience with user-based filtering of graph
 
 Machine Learning Predictions: Forecast app performance based on past trends.
 
-👤 Acknowledgment
+## 👤 Acknowledgment
 
 This project was developed under NullClass Edtech Pvt Ltd as part of the internship program with @copyright 2025.
 
 For any queries, feel free to connect via LinkedIn [ https://www.linkedin.com/in/swarnav-mohanta/ ] or email at swarnavmohanta23@gmail.com.
 
-🚀 Live Project Link: [Hosted on Netlify/Vercel] (Replace with your deployed link)
+🚀 Live Project Link: [ ] 
