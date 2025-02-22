@@ -128,4 +128,5 @@ This project was developed under NullClass Edtech Pvt Ltd as part of the interns
 
 For any queries, feel free to connect via LinkedIn [ https://www.linkedin.com/in/swarnav-mohanta/ ] or email at swarnavmohanta23@gmail.com.
 
-🚀 Live Project Link: [ ] 
+🚀 Live Project Link: [https://google-playstore-analysis.netlify.app/final-dashboard.html] 
+                      [ https://app.netlify.com/sites/google-playstore-analysis/deploys/67b9f68e3601bfee375f5c96 ]
